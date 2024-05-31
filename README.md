@@ -1,4 +1,4 @@
-# Credit_card_dashboard🚀 Credit Card Transactions and Customer Insights: A Comprehensive Analysis with Power BI 📊
+# Credit_card_dashboard🚀 Credit Card Transactions and Customer Insights: A Comprehensive Analysis with Power BI 📊 https://app.powerbi.com/links/K9bL0DFitF?ctid=316aa4d3-f4ee-48f0-9ce7-cef2e1e2a331&pbi_source=linkShare
 
 I am thrilled to share the Power BI dashboards I created to analyze credit card transactions and customer behavior. Here are some key insights:
 
@@ -29,9 +29,13 @@ The age group 40-50 years has the highest revenue contribution with $14M.
 Revenue by Marital Status:
 
 Married customers contribute $28M to the total revenue, showcasing higher spending compared to single customers.
+
+
 Key Takeaways:
 The data highlights significant trends in consumer spending, particularly in the Bills and Entertainment categories.
 There is a clear preference for Blue Cards, which could be targeted for promotional campaigns.
-The demographic insights can help tailor marketing strategies to different customer segments to enhance engagement and revenue.
-These dashboards provide valuable insights that can help businesses understand customer behavior and optimize their strategies for better financial performance. Feel free to reach out if you have any questions or would like to discuss the insights further!
+
+
+
+This dashboard provide valuable insights that can help businesses understand customer behavior and optimize their strategies for better financial performance. Feel free to reach out if you have any questions or would like to discuss the insights further!
 
