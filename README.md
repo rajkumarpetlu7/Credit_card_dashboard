@@ -41,6 +41,3 @@ The data highlights significant trends in consumer spending, particularly in the
 There is a clear preference for Blue Cards, which could be targeted for promotional campaigns.
 
 
-
-This dashboard provide valuable insights that can help businesses understand customer behavior and optimize their strategies for better financial performance. Feel free to reach out if you have any questions or would like to discuss the insights further!
-
