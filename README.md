@@ -1,4 +1,4 @@
-# Credit_card_dashboard🚀 Credit Card Transactions and Customer Insights: A Comprehensive Analysis with Power BI 📊 https://app.powerbi.com/links/K9bL0DFitF?ctid=316aa4d3-f4ee-48f0-9ce7-cef2e1e2a331&pbi_source=linkShare
+Credit Card Transactions and Customer Insights: A Comprehensive Analysis with Power BI 📊 https://app.powerbi.com/links/K9bL0DFitF?ctid=316aa4d3-f4ee-48f0-9ce7-cef2e1e2a331&pbi_source=linkShare
 
 I am thrilled to share the Power BI dashboards I created to analyze credit card transactions and customer behavior. Here are some key insights:
 
